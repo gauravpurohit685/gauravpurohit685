@@ -30,7 +30,7 @@ I like building things close to the metal (network protocols, RTOS kernels) as m
 
 ## 🚀 Projects
 
-### 🔌 [Reliable UDP Protocol Stack (RUDP)](https://github.com/gauravpurohit685/RUDP)
+### 🔌 [Reliable UDP Protocol Stack (RUDP)](https://github.com/gauravpurohit685/Reliable-UDP-Protocol)
 `C11` `POSIX Sockets`
 
 A reliable transport protocol library built from scratch in C over unreliable UDP.
