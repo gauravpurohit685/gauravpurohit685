@@ -4,7 +4,7 @@
 
 I like building things close to the metal (network protocols, RTOS kernels) as much as shipping full-stack products. Currently looking for **Software Engineering internships** and open-source mentorship opportunities.
 
-📫 **Reach me:** [gauravpurohit985@gmail.com](mailto:gauravpurohit985@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [LeetCode](https://leetcode.com/u/YOUR-HANDLE) · [Codeforces](https://codeforces.com/profile/YOUR-HANDLE)
+📫 **Reach me:** [gauravpurohit985@gmail.com](mailto:gauravpurohit985@gmail.com) · [LinkedIn](www.linkedin.com/in/gaurav-purohit-208572305) · [LeetCode](https://leetcode.com/u/gauravpurohit108/) · [Codeforces](https://codeforces.com/profile/gauravpurohit685)
 
 ---
 
