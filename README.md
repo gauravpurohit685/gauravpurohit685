@@ -30,7 +30,7 @@ I like building things close to the metal (network protocols, RTOS kernels) as m
 
 ## 🚀 Projects
 
-### 🔌 [Reliable UDP Protocol Stack (RUDP)](https://github.com/YOUR-USERNAME/RUDP)
+### 🔌 [Reliable UDP Protocol Stack (RUDP)](https://github.com/gauravpurohit685/RUDP)
 `C11` `POSIX Sockets`
 
 A reliable transport protocol library built from scratch in C over unreliable UDP.
@@ -40,7 +40,7 @@ A reliable transport protocol library built from scratch in C over unreliable UD
 - Selective Repeat sliding-window ARQ with out-of-order reassembly, `select()` I/O multiplexing, adaptive exponential backoff and 3-DupACK fast retransmit
 - Custom impairment-simulator proxy (15% loss, 20–50 ms jitter, 5% duplicates), with multi-megabyte files transferred bit-exact and verified by SHA-256
 
-### ⚙️ [Micro-RTOS](https://github.com/YOUR-USERNAME/Micro-RTOS)
+### ⚙️ [Micro-RTOS](https://github.com/gauravpurohit685/Micro-RTOS)
 `C` `Thumb-2 Assembly` `ARM Cortex-M3` `QEMU`
 
 A bare-metal preemptive real-time kernel written from scratch, with no vendor HAL and no standard C runtime.
@@ -50,7 +50,7 @@ A bare-metal preemptive real-time kernel written from scratch, with no vendor HA
 - Custom BSP: linker scripts, vector table setup, memory-mapped UART driver
 - 100% static TCB/stack allocation for deterministic execution and zero heap fragmentation
 
-### 📈 [Vestra: Stock Trading Platform](https://github.com/YOUR-USERNAME/Vestra) · [Live Demo](https://YOUR-VESTRA-LINK)
+### 📈 [Vestra: Stock Trading Platform](https://github.com/gauravpurohit685/Vestra) · [Live Demo](https://YOUR-VESTRA-LINK)
 `MongoDB` `Express` `React` `Node.js` `Chart.js`
 
 A full-stack MERN app for tracking and trading holdings, positions and orders with live market data.
@@ -59,7 +59,7 @@ A full-stack MERN app for tracking and trading holdings, positions and orders wi
 - Live prices via the Finnhub API
 - JWT + bcrypt authentication, data persisted in MongoDB, and portfolio trends visualized with Chart.js
 
-### 🧠 [Reviora: Spaced-Repetition Revision App](https://github.com/YOUR-USERNAME/Reviora) · [Live Demo](https://YOUR-REVIORA-LINK)
+### 🧠 [Reviora: Spaced-Repetition Revision App](https://github.com/gauravpurohit685/Reviora) · [Live Demo](https://YOUR-REVIORA-LINK)
 `MongoDB` `Express` `React` `Node.js`
 
 A full-stack MERN app that helps students retain what they learn through scheduled revisions.
